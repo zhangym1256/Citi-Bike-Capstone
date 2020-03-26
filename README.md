@@ -27,3 +27,7 @@ This notebook contains machine learning algorithms including Lasso, XGBoost regr
 **2nd_Round_EDA.ipynb**
 
 Second round of EDA is performed using features ranked by the machine learning models.
+
+**Citi Bike Visualization.pdf**
+
+This file contains visualizations built in Tableau to show some dynamics of stations through 2017-2019 and during a day. 
