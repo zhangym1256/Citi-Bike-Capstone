@@ -31,3 +31,7 @@ Second round of EDA is performed using features ranked by the machine learning m
 [**Citi Bike Visualization.pdf**](https://github.com/shimmer-croissant0707/Citi-Bike-Capstone/blob/master/Citi%20Bike%20Visualization.pdf)
 
 This file contains visualizations built in Tableau to show some dynamics of stations through 2017-2019 and during a day. 
+
+**Capstone Presentation** 
+
+This file contains the presentation slides as a summary of the overall project. 
