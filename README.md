@@ -32,6 +32,6 @@ Second round of EDA is performed using features ranked by the machine learning m
 
 This file contains visualizations built in Tableau to show some dynamics of stations through 2017-2019 and during a day. 
 
-**Capstone Presentation** 
+**Capstone Presentation.pptx** 
 
 This file contains the presentation slides as a summary of the overall project. 
