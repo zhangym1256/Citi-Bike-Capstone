@@ -8,6 +8,7 @@ Created by:
 >Unlock a bike.
 Unlock New York. 
 
+![Citi Bike Picture](https://github.com/shimmer-croissant0707/Citi-Bike-Capstone/blob/master/www/anthony-fomin-8ol9rD0BHAU-unsplash.jpg)
 
 This project aims to study the factors that have strong impact on Citi Bike ridership, and identify similarity and discrepancy between dock stations. Data used in this study include monthly trip data published by Citi Bike, NYC daily weather from NOAA, and dock capacity from Open Bus. The time span of this analysis covers from Jan 2017 to Dec 2019 from 5am - 10pm when most of activies occured. Due to the size of the original dataset, we took a subset of 5% from each month. Total data include 2.6 M observations and 57 features. Some visualizations are generated in Tableau. If you are interested in the visualizations, feel free to reach out to us via LikedIn.
 
