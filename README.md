@@ -1,8 +1,8 @@
 # Citi Bike Capstone Project
 Created by:
-* Hanbo Shao: [GitHub](https://github.com/shimmer-croissant0707), [LinkedIn](www.linkedin.com/in/hanbo-shao)
-* Xuyuan Zhang: [GitHub](https://github.com/AliceXuyuan), [LinkedIn](www.linkedin.com/in/xuyuan-zhang)
-* Yunmei Zhang: [GitHub](https://github.com/zhangym1256), [LinkedIn](www.linkedin.com/in/yunmeizhang)
+* Hanbo Shao: [GitHub](https://github.com/shimmer-croissant0707), [LinkedIn](https://www.linkedin.com/in/hanbo-shao)
+* Xuyuan Zhang: [GitHub](https://github.com/AliceXuyuan), [LinkedIn](https://www.linkedin.com/in/xuyuan-zhang)
+* Yunmei Zhang: [GitHub](https://github.com/zhangym1256), [LinkedIn](https://www.linkedin.com/in/yunmeizhang)
 
 
 >Unlock a bike.
